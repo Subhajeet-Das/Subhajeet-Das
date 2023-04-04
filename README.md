@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajeet-das&label=Profile%20views&color=0e75b6&style=flat" alt="subhajeet-das" /> </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/91028101/229896404-cdd76199-3af6-4b32-a8c1-761e145c0fe3.gif" width=1100 height=400></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/91028101/229896404-cdd76199-3af6-4b32-a8c1-761e145c0fe3.gif" width=1100 height=300></p>
 
 - 🌱 I’m currently learning **Machine learning.**
 
