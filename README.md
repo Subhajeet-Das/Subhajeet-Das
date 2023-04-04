@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajeet-das&label=Profile%20views&color=0e75b6&style=flat" alt="subhajeet-das" /> </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/91028101/229891127-73dcd24e-5ab0-4c24-b0e5-d7e421b72dc5.gif" title="Neural network" width=400px></p>
-
+<p align="center"><img src="https://user-images.githubusercontent.com/91028101/229896404-cdd76199-3af6-4b32-a8c1-761e145c0fe3.gif" width=1100 height=400></p>
 
 - 🌱 I’m currently learning **Machine learning.**
 
