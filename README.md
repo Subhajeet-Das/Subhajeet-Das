@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajeet-das&label=Profile%20views&color=0e75b6&style=flat" alt="subhajeet-das" /> </p>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/91028101/229891127-73dcd24e-5ab0-4c24-b0e5-d7e421b72dc5.gif" title="Neural network" width=400px></p>
+
+
 - 🌱 I’m currently learning **Machine learning.**
 
-- 📫 How to reach me **subhajeetdas23@gmail.com**
+- 📫 Want to reach me, email on **subhajeetdas23@gmail.com**
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhajeet-das" alt="subhajeet-das" /></a> </p>
 
