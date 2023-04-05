@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/91028101/229896404-cdd76199-3af6-4b32-a8c1-761e145c0fe3.gif" width=1100 height=300></p>
 
-- 🌱 I’m currently learning & exploring **Machine learning.**
+- 🌱 I’m currently learning & exploring **Data Science & Machine Learning.**
 
 - 📫 Want to reach me, email on **subhajeetdas23@gmail.com**
 <br>
